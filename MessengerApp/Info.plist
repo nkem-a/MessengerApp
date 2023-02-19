@@ -13,6 +13,10 @@
 				<dict>
 					<key>UISceneConfigurationName</key>
 					<string>Default Configuration</string>
+					<key>Privacy - Camera Usage</key>
+					<string>Please allow access to take a profile picture</string>
+					<key>Privacy - Photo Library Addition</key>
+					<string>Please allow access to select a photo for your profile</string>
 					<key>UISceneDelegateClassName</key>
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
